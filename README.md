@@ -1,3 +1,5 @@
+## Monster Editor
+
 You can create your own Monster.
 To do that you have to follow the next instruction:
 
@@ -47,3 +49,21 @@ S
 20 U  
 S  
 20 U  
+
+## Player editor
+
+You can create your own Player.  
+To do that you have to follow the next instruction:  
+
+Sprite:[Texture's path]  
+Details of the player'stexture  
+{  
+&nbsp;&nbsp;Width:[Value]  
+&nbsp;&nbsp;Heigth:[Value]  
+&nbsp;&nbsp;Top:[Value]  
+&nbsp;&nbsp;Left:[Value]  
+&nbsp;&nbsp;Shift:[Value]  
+&nbsp;&nbsp;MaxShift:[Value]  
+&nbsp;&nbsp;MinShift:[Value]  
+&nbsp;&nbsp;Scale:[Value]  
+}  
