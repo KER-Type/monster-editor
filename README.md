@@ -4,14 +4,14 @@ To do that you have to follow the next instruction:
 Sprite:[Texture's path]  
 Details of the monster's texture  
 {  
-    Width:[Value]  
-    Heigth:[Value]  
-    Top:[Value]  
-    Left:[Value]  
-    Shift:[Value]  
-    MaxShift:[Value]  
-    MinShift:[Value]  
-    Scale:[Value]  
+> Width:[Value]  
+> Heigth:[Value]  
+> Top:[Value]  
+> Left:[Value]  
+> Shift:[Value]  
+> MaxShift:[Value]  
+> MinShift:[Value]  
+> Scale:[Value]  
 }  
 [Action list]  
 (U -> Up --> monster go up)  
